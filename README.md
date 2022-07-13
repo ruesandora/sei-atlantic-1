@@ -96,6 +96,10 @@ seid tx staking create-validator \
 
 [peers](https://forum.rues.info/index.php?threads/sei-network-atlantic-1-peer-listesi-olusturuyoruz-sizde-destek-olabilirsiniz.2144/)
 
+## Sei Network Discord kanalında validator-form-submissions kısmına validatör linkimizi bırakalım:
+
+![image](https://user-images.githubusercontent.com/101149671/178734977-ea774ce9-4d68-4bd0-ab4a-2e8bf474b4bf.png)
+
 
 # Hesaplar:
 

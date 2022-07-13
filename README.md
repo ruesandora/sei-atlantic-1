@@ -92,6 +92,11 @@ seid tx staking create-validator \
 ![image](https://user-images.githubusercontent.com/101149671/178698491-739de8e4-4d5c-43b6-afbb-cd10fc921149.png)
 
 
+# Peer listesi ve peer paylaşımı:
+
+[peers](https://forum.rues.info/index.php?threads/sei-network-atlantic-1-peer-listesi-olusturuyoruz-sizde-destek-olabilirsiniz.2144/)
+
+
 # Hesaplar:
 
 [<img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" width="16px"> Twitter   ](https://twitter.com/Ruesandora0) 

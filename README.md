@@ -47,7 +47,7 @@ wget -q -O sei.sh https://api.rues.info/sei.sh && chmod +x sei.sh && sudo /bin/b
 seid keys add walletName
 ```
 
-# Eskiden katıldıysanız recover:
+# Eskiden katıldıysanız (gentx'de cüzdan oluşturmuştuk) recover:
 ```
 seid keys add walletName --recover
 ```

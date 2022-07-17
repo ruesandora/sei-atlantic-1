@@ -21,7 +21,7 @@ Not: Şimdi görevlerimize başlayalım, hala kurmadıysanız Sei Node kurabilir
 Bu redelegeyi kendi validatorünüzden başka bir validatöre redelege ediceksiniz. (tırnak işaretlerini kaldırın)
 
 ```
-seid tx staking redelegate "KENDİvalidatörADRESİN" seivaloper1654kj35pszp4t49wcglwcg0cwlxg5vvwevaltm 5000usei --from="CüzdanAdın" --chain-id=atlantic-1
+seid tx staking redelegate <KENDİvalidatörADRESİN> seivaloper1654kj35pszp4t49wcglwcg0cwlxg5vvwevaltm 5000usei --from=<CüzdanAdın> --chain-id=atlantic-1
 ```
 
 # IBC Transfer:
@@ -29,7 +29,7 @@ seid tx staking redelegate "KENDİvalidatörADRESİN" seivaloper1654kj35pszp4t49
 Not: Burada istediğiniz cosmos ağına gönderebilirsiniz: Örnek cüzdan, osmosisxxx.. kujiraxxx, secretxxx, stafixxx.
 
 ```
-seid tx ibc-transfer -y transfer transfer channel-77 "göndereceğiniz ağ adresi" 20usei --chain-id atlantic-1 --from "rues"
+seid tx ibc-transfer -y transfer transfer channel-77 <diğer ağ adresi> 20usei --chain-id atlantic-1 --from <cüzdan_adı>
 ```
 
 ## TX HASHLERİ KAYDEDİN NOT ALIN

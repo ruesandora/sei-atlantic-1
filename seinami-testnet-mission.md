@@ -2,6 +2,8 @@
 
 ## Selamlar arkadaşlar bugün Sei network, atlantic-1 testnetinin, ACT1 görevlerini yapacağız, aşığaya yapacağımız görevler ve puanlarını sıralıyorum:
 
+EN ÖNEMLİSİ BUNLARI YAPMAK İÇİN AKTİF SETE GİRMENİZ GEREKMİYOR, GİRDİĞİNİZ ZAMAN UPTİME VE JAİLE DİKKAT EDERSİNİZ.
+
 * Redelege görevi - Uptime'ı minimum %75'ün üstünde olan, örnek ben %95'im, redelege yapmak: (5 PUAN)
 * IBC Transfer, herhangi bir Cosmos ağına IBC transfer yapılacak. (30 PUAN)
 * Validatör çalıştırmak - AKTİF SET ŞART DEĞİL (40 PUAN)

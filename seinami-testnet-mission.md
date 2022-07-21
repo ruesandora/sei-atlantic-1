@@ -115,7 +115,7 @@ seid tx ibc-transfer -y transfer transfer channel-5 juno1654kj35pszp4t49wcglwcg0
 * Burada doldurmanız gerekenler belli tx hasları not ettık IBC transferlere sırasıyla txhashları vs. yapıştırabilirsiniz.
 * Completed mission: sorusuna yaptığınız görevlerden birisini ingilizce yazın.
 * tx hash kısmına da yaptığınız ıbc transferlerden 1 tanesını eklesenız yeterli.
-
+* son soru screenshot, orasıda size kalmıs yapmadıysanı ağ dışında bir işlem boş bırakın.
 
 
 

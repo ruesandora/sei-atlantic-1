@@ -37,6 +37,10 @@ seid tx ibc-transfer -y transfer transfer channel-77 "göndereceğiniz ağ adres
 seid tx gov vote 3 yes --from rues --chain-id atlantic-1
 ```
 
+# CW20-ICS20-Smart-Contract görevi:
+
+https://github.com/ruesandora/CW20-ICS20-Smart-Contract/blob/main/README.md
+
 ## TX HASHLERİ KAYDEDİN NOT ALIN
 
 <h1 align="center">Diğer görevler başladıkça ve güncelleme geldikçe eklenecektir, contabo sıkıntısı çıkmasa 1 görev daha ekleyecektim, sıkıntı yok 22 Temmuz son gün, 5 günümüz var.</h1>
